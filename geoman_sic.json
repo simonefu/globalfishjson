@@ -1,2 +1,42 @@
-﻿{"type":"FeatureCollection","features":[
-{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[10.634765625,38.66835610151506],[16.23779296875,38.70265930723801],[16.23779296875,34.92197103616377],[10.634765625,35.04798673426734],[10.634765625,38.58252615935333]]}}]}
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f40105",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.63,
+            38.46
+          ],
+          [
+            10.63,
+            34.38
+          ],
+          [
+            17.39,
+            34.38
+          ],
+          [
+            17.39,
+            34.38
+          ],
+          [
+            17.39,
+            38.46
+          ],
+          [
+            10.63,
+            38.46
+          ]
+        ]
+      }
+    }
+  ]
+}

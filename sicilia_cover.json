@@ -1108,15 +1108,6 @@
         "fill": "#00aaa2",
         "fill-opacity": 1
       },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#00aaa2",
-        "fill-opacity": 1
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

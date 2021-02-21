@@ -1,44 +1,4 @@
-﻿{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.17333984375,
-              34.77771580360469
-            ],
-            [
-              16.116943359375,
-              34.77771580360469
-            ],
-            [
-              16.116943359375,
-              38.298559092254344
-            ],
-            [
-              10.17333984375,
-              38.298559092254344
-            ],
-            [
-              10.17333984375,
-              34.77771580360469
-            ]
-          ]
-        ]
-      }
-    },
-    {
+﻿    {
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
